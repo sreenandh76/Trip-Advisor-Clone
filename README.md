@@ -7,7 +7,7 @@ This project replicates the basic layout and design structure of the TripAdvisor
 
 ## 🚀 Live Website
 
-You can view the live website here:  
+You can view the live website here:  https://sreenandh76.github.io/Trip-Advisor-Clone/
 🔗 
 
 ---
